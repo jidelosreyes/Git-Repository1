@@ -12,10 +12,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Git-Programacion1\Controllers\API\" />
     <Folder Include="Areas\Git-Programacion1\Data\" />
     <Folder Include="Areas\Git-Programacion1\Models\" />
     <Folder Include="Areas\Git-Programacion1\Views\" />
+    <Folder Include="Areas\Git-Programacion2\Controllers\API\" />
+    <Folder Include="Areas\Git-Programacion2\Data\" />
+    <Folder Include="Areas\Git-Programacion2\Models\" />
+    <Folder Include="Areas\Git-Programacion2\Views\" />
   </ItemGroup>
 
 </Project>

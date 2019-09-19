@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DatosJose\\Repositorios\\git-app-core1\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "E:\\DatosJose\\Repositorios\\GitVS-dir\\webapplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "E:\\DatosJose\\Repositorios\\git-app-core1\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "E:\\DatosJose\\Repositorios\\GitVS-dir\\webapplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DatosJose\\Repositorios\\git-app-core1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "E:\\DatosJose\\Repositorios\\GitVS-dir\\webapplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "E:\\DatosJose\\Repositorios\\git-app-core1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "E:\\DatosJose\\Repositorios\\GitVS-dir\\webapplication1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\jidel\\.nuget\\packages\\",
-        "outputPath": "E:\\DatosJose\\Repositorios\\git-app-core1\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "E:\\DatosJose\\Repositorios\\GitVS-dir\\webapplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
