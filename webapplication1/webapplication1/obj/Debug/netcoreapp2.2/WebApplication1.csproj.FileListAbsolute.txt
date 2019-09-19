@@ -1,0 +1,14 @@
+E:\DatosJose\Repositorios\git-app-core1\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.deps.json
+E:\DatosJose\Repositorios\git-app-core1\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.json
+E:\DatosJose\Repositorios\git-app-core1\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.dev.json
+E:\DatosJose\Repositorios\git-app-core1\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.dll
+E:\DatosJose\Repositorios\git-app-core1\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csprojAssemblyReference.cache
+E:\DatosJose\Repositorios\git-app-core1\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CoreCompileInputs.cache
+E:\DatosJose\Repositorios\git-app-core1\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cache
+E:\DatosJose\Repositorios\git-app-core1\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cs
+E:\DatosJose\Repositorios\git-app-core1\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfoInputs.cache
+E:\DatosJose\Repositorios\git-app-core1\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfo.cs
+E:\DatosJose\Repositorios\git-app-core1\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
+E:\DatosJose\Repositorios\git-app-core1\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+E:\DatosJose\Repositorios\git-app-core1\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
+E:\DatosJose\Repositorios\git-app-core1\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
